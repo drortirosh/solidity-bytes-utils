@@ -25,10 +25,8 @@
     "url": "https://github.com/GNSPS/solidity-bytes-utils/issues"
   },
   "homepage": "https://github.com/GNSPS/solidity-bytes-utils#readme",
-  "dependencies": {
-    "@truffle/hdwallet-provider": "latest"
-  },
   "devDependencies": {
+    "@truffle/hdwallet-provider": "latest",
     "truffle": "latest"
   }
 }
